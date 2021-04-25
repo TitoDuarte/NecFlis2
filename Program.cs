@@ -143,7 +143,7 @@ namespace Parcial
                                     break;
                                 }
                                 else{
-                                    System.Console.WriteLine("Escoja uno de los valores");
+                                    System.Console.WriteLine("Seleccione lo que necesita hacer");
                                 }
                                 }
 
